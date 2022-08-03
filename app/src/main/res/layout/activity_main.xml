@@ -85,4 +85,14 @@
         android:layout_marginEnd="25dp"
         android:layout_marginBottom="460dp"
         android:text="7" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="352dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="361dp"
+        android:text="Nasywa Sukria Hanifa" />
 </RelativeLayout>
